@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Practica_FundamentosAndroid_SilviaCasanova</string>
+    <string name="app_name" translatable="false">Practica_FundamentosAndroid_SilviaCasanova</string>
+    <string name="toast_text">Usuario o password erroneo</string>
 </resources>
