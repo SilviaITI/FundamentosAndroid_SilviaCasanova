@@ -19,7 +19,7 @@
         android:padding="60dp"
         android:text="Bienvendido al mundo de Dragon Ball!!"
         android:textStyle="bold"
-        android:textSize="33dp"
+        android:textSize="28dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
